@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.AssemblyInfo.cs
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.exe
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.deps.json
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.json
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.runtimeconfig.dev.json
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\bin\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.dll
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.pdb
+C:\Users\asus\Desktop\LibraryApp\LibraryApp\obj\Debug\netcoreapp3.1\LibraryApp.genruntimeconfig.cache
